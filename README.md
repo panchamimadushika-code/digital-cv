@@ -3,6 +3,9 @@
 ## Profile
 I am a self-motivated, responsible, and punctual individual with a strong willingness to learn and grow in the field of Computer Science. I am committed to completing tasks efficiently and maintaining high standards in both academic and professional environments. I work well independently as well as in team settings, and I continuously seek opportunities to improve my technical and communication skills.
 
+## Career Objective
+To develop my knowledge and experience in the field of Information Technology while contributing positively to academic and professional environments through dedication, teamwork, and continuous learning.
+
 ## Personal Strengths
 - Self-motivated and disciplined
 - Punctual and reliable
